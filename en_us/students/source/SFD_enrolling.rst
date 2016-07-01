@@ -35,8 +35,7 @@ To enroll in a course, follow these steps.
 
 #. On the edX home page, select the course that you want to take.
 
-#. When the About page for the course opens, select **Enroll Now** in the
-   upper right corner of the page.
+#. On the About page for the course, select **Enroll Now**.
 
    * If the course offers only an audit track, you are enrolled in the course
      after you select **Enroll Now**.
@@ -58,12 +57,12 @@ To enroll in a course, follow these steps.
      After you submit a payment for a verified certificate, you can view that
      payment at any time. For more information, see :ref:`View Order History`.
 
-#. After you enroll in the course, your dashboard opens automatically. When
-   your dashboard opens, verify that the new course appears in your list of
-   courses.
+#. After you enroll in the course, on the website, your dashboard opens with
+   the new course added to your list of courses. In the mobile app, the new
+   course opens.
 
-If you select **View Course** on your dashboard, the **Home** page for
-the course opens. If the course has already started, you can select the
+On the website, select **View Course** on your dashboard to open the **Home**
+page for the course. If the course has already started, you can select the
 **Course** page to access released course materials.
 
 .. note:: Course instructors occasionally enroll learners directly in a
