@@ -69,6 +69,7 @@ page for the course. If the course has already started, you can select the
  course. If this is the case, you receive an email that contains a link to the
  course. Select the link to enroll in the course.
 
+
 ****************************
 Change Your Course Track
 ****************************
@@ -78,6 +79,9 @@ to earn a verified certificate. Or you might enroll in the verified certificate
 track for a course, but then decide that you want to audit the course instead.
 If the course has recently started, you might be able to change your course
 track.
+
+.. note:: Currently you can only upgrade to the verified track for courses on
+   the edx.org website.
 
 ====================================================
 Change to the Verified Certificate Track
