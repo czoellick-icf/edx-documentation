@@ -1,0 +1,6 @@
+A change that was released during the week of 20 June has been reverted.
+
+The edX video player no longer renders all transcript files, including HTML
+markup, as plain text. (:jira:`AC-454`) The accessibility issues that this
+change was intended to resolve will be addressed in a future release.
+
