@@ -1,6 +1,32 @@
-A change that was released during the week of 20 June has been reverted.
+* To anticipate and answer learners' questions about certificate availability,
+  the **Progress** page now includes the following message for learners who
+  are enrolled in the audit track.
 
-The edX video player no longer renders all transcript files, including HTML
-markup, as plain text. (:jira:`AC-454`) The accessibility issues that this
-change was intended to resolve will be addressed in a future release.
+  "You are enrolled in the audit track for this course. The audit track does
+  not include a certificate."
 
+* An error in the way that responses to questions were presented in the course
+  discussions has been corrected.
+
+  After discussion participants respond to a question, the learner who posted
+  the original question and the discussion moderators can mark a response as
+  the answer to the question. Responses that are marked as answers include the
+  message, "marked as answer {time frame} by {username}". Responses that are
+  marked as answers can be "unmarked". For example, if the learner who
+  originally posted a question identifies a response as the answer, a
+  discussion moderator might want to unmark a response that is actually
+  incomplete or misleading.
+
+  Previously, a response that was unmarked as the answer continued to show the
+  "marked as answer {time frame} by {username}" message. This message no longer
+  appears for unmarked responses. (:jira:`TNL-4392`)
+
+* The footer for the edx.org website includes a set of links to different
+  social media sites. To give these options more structural meaning for people
+  who use screen readers to visit the site, these links are now organized into
+  a list instead of a collection of links.
+
+* The edX video player no longer renders all transcript files, including HTML
+  markup, as plain text. This change reverts (:jira:`AC-454`), which was
+  released during the week of 20 June 2016. The accessibility issues that
+  AC-454 was intended to resolve will be addressed in a future release.

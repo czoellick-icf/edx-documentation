@@ -1,0 +1,10 @@
+This release adds support for an OpenStack Swift Object Store for user-
+uploaded content. Instead of specifically referencing the Amazon S3 service,
+the Open edX platform now uses the Django file storage API to define the
+cloud storage provider.
+
+Complete documentation is not yet available for this change. For more
+information, see the `Add OpenStack Swift Support` PR in GitHub.
+
+
+.. _Add OpenStack Swift Support: https://github.com/edx/edx-platform/pull/11286
